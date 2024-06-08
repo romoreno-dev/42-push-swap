@@ -44,7 +44,7 @@ Error
 
 # 2. Contenido del repositorio
 
-- El repositorio contiene **push_swap**, quinto proyecto del Cursus de 42, correspondiente al segundo círculo (Rank 02).
+- El repositorio contiene **push_swap**, sexto proyecto del Cursus de 42, correspondiente al segundo círculo (Rank 02).
 - El proyecto sigue la [Norminette](https://github.com/42School/norminette), norma de estilo oficial del Campus.
 
 ##  push_swap 42 Project (Rank 02)
