@@ -1,3 +1,6 @@
 [submodule "include/libft"]
 	path = include/libft
 	url = https://github.com/romoreno-dev/42-libft-printf-gnl
+[submodule "python_visualizer"]
+	path = python_visualizer
+	url = https://github.com/o-reo/push_swap.git

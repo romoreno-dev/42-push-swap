@@ -106,6 +106,7 @@ fclean: clean
 re: 	fclean all
 
 see:	all
-		python3 python_visualizer.py `ruby -e "puts (-50..50).to_a.shuffle.join(' ')"`
+		cp python_visualizer/pyviz.py tmp_visualizer.py
+		python3 tmp_visualizer.py `ruby -e "puts (-50..50).to_a.shuffle.join(' ')"`
 
 .PHONY: all clean fclean re bonus see
